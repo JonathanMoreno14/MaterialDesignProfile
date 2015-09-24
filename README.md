@@ -9,5 +9,13 @@ Inline-style:
 ![materialdesignmobile](https://cloud.githubusercontent.com/assets/11635523/10080029/f2bb5bc2-62b2-11e5-90a9-173a82939a79.PNG)
 
 
+##How to Use
+```git
+
+  $ git clone  https://github.com/JonathanMoreno14/MaterialDesignProfile.git
+
+```
+
+
 
 
