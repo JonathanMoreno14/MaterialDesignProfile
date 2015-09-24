@@ -1,0 +1,98 @@
+ 
+/*Global CSS*/
+h6{
+ text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 45px;
+}
+hr{
+	width: 40px;
+    margin-bottom: 45px;
+}
+body {
+  background-color:#fafafa;
+}
+/****************/
+
+nav {
+  /* background: none;*/
+  background: transparent;
+    padding-left: 85px;
+    padding-right: 139px
+}
+    /*grey darken-4*/
+      nav .nav-wrapper a:hover{
+      color: #bdbdbd;
+        }
+
+/*Parallax Scrolling*/
+ .one {
+ 	height: 611px;
+ }
+     .teal-text {
+        /* color: #009688 !important; */
+        color: white;
+      }
+
+.two {
+  height: 400px;
+  }
+.three{
+  height: 400px;
+  }
+
+ /*Content*/
+#about {
+	 text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+      .card .card-action a {
+         color: #212121;
+      }
+      .card .card-action a:hover {
+         color: #bdbdbd;
+      }
+      .profile-img {
+          margin-left: 404px;
+      }
+
+
+#work {
+	 text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+      .material-img a{
+        color: #212121;
+      }
+      .material-img a:hover {
+        color: #bdbdbd;
+      }
+
+
+#contact {
+	 text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+     /* label focus color */
+     .input-field input[type=text]:focus + label {
+       color: #000;
+     }
+     /* label underline focus color */
+     .input-field input[type=text]:focus {
+       border-bottom: 1px solid #000;
+       box-shadow: 0 1px 0 0 #000;
+     }
+      /* label focus color */
+     .input-field input[type=email]:focus + label {
+       color: #000;
+     }
+     /* label underline focus color */
+     .input-field input[type=email]:focus {
+       border-bottom: 1px solid #000;
+       box-shadow: 0 1px 0 0 #000;
+     }
+  
+
